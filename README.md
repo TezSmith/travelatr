@@ -1,4 +1,4 @@
-# Welcome to Travelatr!
+# Welcome to Travelatr Bad Hash Mother Forkers!
 
 Travelatr is company with a singular vision: to enable people from all walks of life to write about their travels to spectacular destinations all over the globe in order to foster a sense of global community and a heightened cultural awareness.
 
@@ -21,9 +21,14 @@ Blogger:
 
 1. Users should be able to create a new blogger
  	- Bloggers should have unique names and ages above 0, and their bio should be over 30 characters long.
+
 2. Users should be able to see the profile page of a blogger. On this page, a user should see:
 	- The total likes on all of that blogger's posts
+
+### We skipped the following items to account for time. But try to solve these items on your own! 
+
 	- A link to that blogger's featured post (the post with the most likes)
+
 	- **BONUS** A list of that user's top 5 most written about destinations (the destinations with the most posts)
 
 Destination:
@@ -33,6 +38,8 @@ Destination:
 	- A link to a featured post (this destination's post with the most likes)
 	- The average age of all unique bloggers who have written about this destination.
 
+## End of skipped material
+
 Post:
 
 1. Users should be able to create and edit a post
@@ -40,7 +47,13 @@ Post:
 	- Users should be able to select a destination from a dropdown menu
 	- A post should have a title
 	- A post should have content longer than 100 characters
+
 2. Users should be able to see a post's page with its title and content displayed. On this page, a user should see:
+
+## Refactor our review code and see how you would add in the following items yourself!
+
 	- A link to the page of that post's author
 	- A link to the page of that post's destination
+
+## Based off of the like route that we created in class, think about how you would implement that like route with a button. 
 	- A like button link that increases the like count for that post (should take the user to the same page)
